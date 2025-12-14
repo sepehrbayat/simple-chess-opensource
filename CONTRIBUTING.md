@@ -53,5 +53,5 @@ Feel free to open an issue for any questions or discussions!
 **Sepehr Bayat**
 - **Email**: sepehrbayat5@gmail.com
 - **Telegram**: [@bayatsepehr](https://t.me/bayatsepehr)
-- **LinkedIn**: [linkedin.com/sepehrbayat](https://linkedin.com/sepehrbayat)
+- **LinkedIn**: [linkedin.com/in/sepehrbayat](https://linkedin.com/in/sepehrbayat)
 - **GitHub**: [@sepehrbayat](https://github.com/sepehrbayat)

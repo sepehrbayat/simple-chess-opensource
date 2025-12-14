@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: sepehrbayat5@gmail.com
 - **Telegram**: [@bayatsepehr](https://t.me/bayatsepehr)
-- **LinkedIn**: [linkedin.com/sepehrbayat](https://linkedin.com/sepehrbayat)
+- **LinkedIn**: [linkedin.com/in/sepehrbayat](https://linkedin.com/in/sepehrbayat)
 - **GitHub**: [@sepehrbayat](https://github.com/sepehrbayat)
 
 ## 📦 Version
@@ -230,7 +230,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 - **Email**: sepehrbayat5@gmail.com
 - **Telegram**: [@bayatsepehr](https://t.me/bayatsepehr)
-- **LinkedIn**: [linkedin.com/sepehrbayat](https://linkedin.com/sepehrbayat)
+- **LinkedIn**: [linkedin.com/in/sepehrbayat](https://linkedin.com/in/sepehrbayat)
 - **GitHub**: [@sepehrbayat](https://github.com/sepehrbayat)
 
 **Project Links:**
