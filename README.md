@@ -219,12 +219,15 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 - Chess.com for inspiration and chess rules reference
 - Open source community for continuous support and feedback
 
-## 📞 Contact
+## 📞 Contact & Links
 
 **Sepehr Bayat**
 
-- GitHub: [@yourusername](https://github.com/YOUR_USERNAME)
-- Project Link: [https://github.com/YOUR_USERNAME/simple-chess-opensource](https://github.com/YOUR_USERNAME/simple-chess-opensource)
+- **Repository**: [simple-chess-opensource](https://github.com/YOUR_USERNAME/simple-chess-opensource)
+- **Issues**: [Report a Bug](https://github.com/YOUR_USERNAME/simple-chess-opensource/issues)
+- **Discussions**: [Join the Discussion](https://github.com/YOUR_USERNAME/simple-chess-opensource/discussions)
+
+> **Note**: Replace `YOUR_USERNAME` with your actual GitHub username in the URLs above.
 
 ---
 
