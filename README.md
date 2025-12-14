@@ -35,7 +35,7 @@ A complete, open-source chess game built with Python and Pygame. Features move q
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/simple-chess-opensource.git
+   git clone https://github.com/sepehrbayat/simple-chess-opensource.git
    cd simple-chess-opensource
    ```
    
@@ -223,11 +223,9 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 **Sepehr Bayat**
 
-- **Repository**: [simple-chess-opensource](https://github.com/YOUR_USERNAME/simple-chess-opensource)
-- **Issues**: [Report a Bug](https://github.com/YOUR_USERNAME/simple-chess-opensource/issues)
-- **Discussions**: [Join the Discussion](https://github.com/YOUR_USERNAME/simple-chess-opensource/discussions)
-
-> **Note**: Replace `YOUR_USERNAME` with your actual GitHub username in the URLs above.
+- **Repository**: [simple-chess-opensource](https://github.com/sepehrbayat/simple-chess-opensource)
+- **Issues**: [Report a Bug](https://github.com/sepehrbayat/simple-chess-opensource/issues)
+- **Discussions**: [Join the Discussion](https://github.com/sepehrbayat/simple-chess-opensource/discussions)
 
 ---
 
