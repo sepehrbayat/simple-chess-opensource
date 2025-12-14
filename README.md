@@ -197,6 +197,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sepehr Bayat**
 
+- **Email**: sepehrbayat5@gmail.com
+- **Telegram**: [@bayatsepehr](https://t.me/bayatsepehr)
+- **LinkedIn**: [linkedin.com/sepehrbayat](https://linkedin.com/sepehrbayat)
+- **GitHub**: [@sepehrbayat](https://github.com/sepehrbayat)
+
 ## 📦 Version
 
 Current version: **1.0.0**
@@ -223,6 +228,12 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 **Sepehr Bayat**
 
+- **Email**: sepehrbayat5@gmail.com
+- **Telegram**: [@bayatsepehr](https://t.me/bayatsepehr)
+- **LinkedIn**: [linkedin.com/sepehrbayat](https://linkedin.com/sepehrbayat)
+- **GitHub**: [@sepehrbayat](https://github.com/sepehrbayat)
+
+**Project Links:**
 - **Repository**: [simple-chess-opensource](https://github.com/sepehrbayat/simple-chess-opensource)
 - **Issues**: [Report a Bug](https://github.com/sepehrbayat/simple-chess-opensource/issues)
 - **Discussions**: [Join the Discussion](https://github.com/sepehrbayat/simple-chess-opensource/discussions)
